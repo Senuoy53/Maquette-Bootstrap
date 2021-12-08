@@ -1,0 +1,66 @@
+/* +++++++++++++++++++++++++ Config General +++++++++++++++++++++++++ */
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+/* Google font  */
+    /* For titles & nav */
+
+
+/* font-family: 'PT Sans Narrow', sans-serif; */
+    /* For textes */
+
+
+/* font-family: 'Open Sans', sans-serif; */
+
+/* Color Variables */
+/* :root {
+    --bg-color: #F3F1F3;
+    --bg-green-color: #00A98F;
+    --white: #fff;
+    --titles-color: #13AE96;
+    --aside-bg-color: #B0DFAC;
+    --span-color: #19BAB6;
+    --first-text-color:#9F9E9D;
+    --second-text-color: #222;
+
+} */
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* =========================
+            Main
+=========================*/
+
+section {
+    margin-top: 30px;
+}
+
+.secondSection {
+    /* padding-left: 15px; */
+    /* border: 1px solid red; */
+}
+
+.secondSection div {
+    margin-right: 10px;
+}
+
+.secondSection div img {
+    width: 170px;
+    /* width: 100%; */
+}
+
+/* =========================
+            Footer
+=========================*/
+footer p{
+    line-height: 8px;
+}
+
+
+
+
